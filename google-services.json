@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "840342912812",
+    "firebase_url": "https://helpline-834ba-default-rtdb.firebaseio.com",
+    "project_id": "helpline-834ba",
+    "storage_bucket": "helpline-834ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840342912812:android:3cb1d6a1bb71f0c2dcb689",
+        "android_client_info": {
+          "package_name": "com.forbitbd.helpline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840342912812-32021blrs00048m656jraitef40mg9ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhjVffw1omb_lkxrL6L0rBdyzJEuOgl7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840342912812-32021blrs00048m656jraitef40mg9ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
